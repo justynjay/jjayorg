@@ -1,4 +1,3 @@
 baseURL = 'https://jjay.org/'
 languageCode = 'en-us'
 title = 'jjay.org'
-theme = 'lynx'
