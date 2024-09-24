@@ -14,7 +14,7 @@
 }
 
 .link-link {
-  background: rgb(33, 33, 33);
+  background: rgba(0, 0, 0, 0);
 }
 .link-apple {
   background: rgb(255, 00, 00);
@@ -54,15 +54,7 @@
   background: linear-gradient(90deg, #FF0000, #FF2628, #FF0000);
 }
 
-.link-link {
-  background-color: #1E1E1E;
-  background: linear-gradient(90deg, 
-	#0F0F0F 0%, 
-	#1E1E1E 35%,
-	#1E1E1E 50%, 
-	#1E1E1E 65%,
-	#0F0F0F 100%);
-}
+
 
 h1 {
   font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -94,9 +86,9 @@ p {
 }
 
 .prose :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
-  color: rgb(00, 00, 00);
+  color: rgb(255, 255, 255);
   text-decoration: none;
-  text-decoration-color: black;
+  text-decoration-color: white;
 }
 .prose :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)):hover {
   text-decoration: underline;
@@ -105,7 +97,7 @@ p {
 
 .hover\:text-primary-500:hover {
   --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {
@@ -113,10 +105,10 @@ p {
 }
 
 .hover\:decoration-primary-400:hover {
-  text-decoration-color: #000;
+  text-decoration-color: #FFFFFF;
 }
 
-.text-neutral-500 { 
+.text-neutral-500, .text-neutral-800 { 
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   letter-spacing: 0px;
   color: #ffffff;
@@ -133,6 +125,15 @@ p {
  background-color: #F02850;
 }
 
-p, .prose, h2, h3, h4 {
+p, h1, *, a, .title {
   color: #ffffff;
+}
+
+p, h2, h3, h4, h5, .prose {
+  color: rgba(255, 255, 255, .75)
+}
+a, .prose:a {
+  text-decoration: underline;
+  font-weight: strong;
+  color: #FFFFFF;
 }
