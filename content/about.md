@@ -10,7 +10,7 @@ title: 'jjay•org'
 <br><br>
 
 <p>
-<h2>Websites</h2>
+<h2><a href="/Websites">Websites</a></h2>
 </p>
 
 <br>
@@ -23,21 +23,23 @@ Homepage for Justyn McCabe. Built using <a href="https://gohugo.io/">Hugo</a>, <
 <br><br><br>
 
 <p>
-<h2>Podcasts</h2>
+<h2><a href="/podcasts">Podcasts</a></h2>
 </p>
 
 <br>
 
 <p>
 <h3><a href="https://passionatingfm.tumblr.com">Passionating &#8599;</a></h3>
-On Hiatus
+<h4>On Hiatus</h4>
+Chaotic conversations between Jamie and Justyn about finding and <em>expressing</em> your passions.
 </p>
 
 <br><br>
 
 <p>
 <h3><a href="http://justyntech.tumblr.com">Justyn Tech &#8599;</a></h3>
-Retired
+<h4>Retired</h4>
+A collection of musings on the current state of Apple and related technologies.
 </p>
 
 <br><br><br>
