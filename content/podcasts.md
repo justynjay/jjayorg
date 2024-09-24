@@ -14,7 +14,7 @@ Chaotic conversations between Jamie and Justyn about finding and <em>expressing<
 <br><br><br>
 
 <p>
-<h1><a href="">Justyn Tech</a></h1>
+<h1>Justyn Tech</h1>
 <h4>Retired</h4>
 A collection of musings on the current state of Apple and related technologies.
 </p>
