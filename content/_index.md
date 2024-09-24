@@ -1,4 +1,0 @@
-### podcasting
-### photography
-### videography
-### editing
