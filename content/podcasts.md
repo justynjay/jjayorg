@@ -3,7 +3,7 @@ title: 'Podcasts'
 ---
 <center>
 <br>
-<p>Produced of multiple podcasts, including:</p>
+<p>jjay•org produces podcasts, such as:</p>
 <br><br>
 <p>
 <h1><a href="https://passionatingfm.tumblr.com">Passionating &#8599;</a></h1>
