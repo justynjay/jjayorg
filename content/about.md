@@ -5,7 +5,7 @@ title: 'jjay•org'
 
 <br>
 
-<p>We can produce your next small creative project</p>
+<p>We can produce your next small creative project, including: podcasts, photos, videos, and more!</p>
 
 <br><br>
 
@@ -52,7 +52,7 @@ Retired
 <h3><a href="/inquiries">Contact Form &#8594;</a></h3>
 Please include any and all relevant details to the project, thanks!
 </p>
-
+<br><br>
 </center>
 
 
