@@ -1,0 +1,53 @@
+.link-other {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+.link-apple {
+  background: rgb(0, 106, 255);
+  );
+}
+
+.link-threads {
+  background: rgb(33, 33, 33);
+}
+.link-link {
+  background: rgb(255, 26, 28);
+}
+.link-mastodon {
+  background: rgb(126 34 206);
+}
+
+h1 {
+  font-family: DIN Alternate, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  letter-spacing: 10px;
+  color: rgb(255 00 00);
+}
+
+h2 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  letter-spacing: 2px;
+  color: rgb(255, 00, 00);
+}
+
+h1, h2 {
+  font-size: 150%;
+}
+
+p { 
+  font-size: 110%;  
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .dark\:bg-neutral-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(00 00 00 / var(--tw-bg-opacity));
+  }
+}
+
