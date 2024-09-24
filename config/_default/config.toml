@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "jjay•org"
-# copyright = "Created by [jjay.org](https://jjay.org) © 2024"
+copyright = "[About © 2024](/about)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]

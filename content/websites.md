@@ -1,7 +1,7 @@
 ---
 title: 'Websites'
 ---
-### [https://ijustyn.com &#8594;](https://ijustyn.com)
+### [https://ijustyn.com &#8599;](https://ijustyn.com)
 
 Static homepage built using these tools:
 - [Homebrew](https://brew.sh/)
