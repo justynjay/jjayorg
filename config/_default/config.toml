@@ -18,11 +18,11 @@ disableKinds = ["taxonomy", "term"]
     # { instagram = "https://instagram.com/ijustyn" },
     # { threads = "https://threads.net/ijustyn" },
     # { mastodon = { href = "https://masto.ai/@ijustyn", rel="me" } },     
-     { link = { href = "/podcasts", text = "Podcasts", target = "_self" } },
+    # { link = { href = "/podcasts", text = "Podcasts", target = "_self" } },
     # { link = { href = "/inquiries", text = "Inquiries", target = "_self" } },
     # { apple = { href = "/tip", text = "Pay", title = "Tip @ijustyn" } },
      
-      { email = { href = "/inquiries", text = "Inquiries", title = "Inquiries", icon = "email" } },
+      { apple = { href = "/inquiries", text = "Inquiries", title = "Inquiries", icon = "link", target = "_self" } },
 
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
