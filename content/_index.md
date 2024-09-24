@@ -1,1 +1,4 @@
-We specialize in podcasting, photography & videography. 
+### podcasting
+### photography
+### videography
+### editing
