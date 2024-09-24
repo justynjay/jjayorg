@@ -1,7 +1,7 @@
 ---
 title: 'Websites'
 ---
-#####
+##### jjay•org creates websites, such as:
 ---
 ### [https://ijustyn.com &#8599;](https://ijustyn.com)
 Static homepage built using mostly open source tools:
