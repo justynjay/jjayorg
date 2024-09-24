@@ -7,5 +7,7 @@
     <loc>http://localhost:1313/inquiries/</loc>
   </url><url>
     <loc>http://localhost:1313/podcasts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/websites/</loc>
   </url>
 </urlset>

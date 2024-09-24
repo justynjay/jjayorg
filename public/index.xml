@@ -19,7 +19,14 @@
       <link>http://localhost:1313/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;ve produced multiple podcasts, including:&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://passionatingfm.tumblr.com&#34;&gt;Passionating&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://justyntech.tumblr.com&#34;&gt;Justyn Tech (Retired)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;center&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;We&#39;ve produced multiple podcasts, including:&lt;/p&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;p&gt;&#xA;&lt;h1&gt;&lt;a href=&#34;https://passionatingfm.tumblr.com&#34;&gt;Passionating&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h4&gt;Season Break&lt;/h4&gt;&#xA;&lt;/p&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;p&gt;&#xA;&lt;h1&gt;&lt;a href=&#34;http://justyntech.tumblr.com&#34;&gt;Justyn Tech&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h4&gt;Retired&lt;/h4&gt;&#xA;&lt;/p&gt;&#xA;&lt;/center&gt;</description>
+    </item>
+    <item>
+      <title>Websites</title>
+      <link>http://localhost:1313/websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/websites/</guid>
+      <description>&lt;h3 id=&#34;ijustyncom-8594httpsijustyncom&#34;&gt;&lt;a href=&#34;https://ijustyn.com&#34;&gt;ijustyn.com →&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Static homepage built using these tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://jpanther.github.io/lynx/&#34;&gt;Lynx&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pages.cloudflare.com/&#34;&gt;Cloudflare Pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
