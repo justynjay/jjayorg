@@ -5,7 +5,7 @@ title: 'jjay•org'
 
 <br>
 
-<p>We can produce your next small creative project, including: podcasts, photos, videos, and more!</p>
+<p>jjay•org can produce your next small creative project, including: podcasts, photos, videos, and more!</p>
 
 <br><br>
 
