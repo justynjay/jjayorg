@@ -37,7 +37,7 @@ Chaotic conversations between Jamie and Justyn about finding and <em>expressing<
 <br><br>
 
 <p>
-<h3><a href="http://justyntech.tumblr.com">Justyn Tech &#8599;</a></h3>
+<h3><a href="">Justyn Tech</a></h3>
 <h4>Retired</h4>
 A collection of musings on the current state of Apple and related technologies.
 </p>
@@ -51,10 +51,10 @@ A collection of musings on the current state of Apple and related technologies.
 <br>
 
 <p>
-<h3><a href="/inquiries">Contact Form &#8594;</a></h3>
+<h3><a href="#">Contact Form</a></h3>
 Please include any and all relevant details to the project, thanks!
 </p>
-<br><br>
+<br><br><br>
 </center>
 
 
