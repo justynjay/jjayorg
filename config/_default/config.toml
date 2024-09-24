@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     # { threads = "https://threads.net/ijustyn" },
     # { mastodon = { href = "https://masto.ai/@ijustyn", rel="me" } },     
     # { link = { href = "/podcasts", text = "Podcasts", target = "_self" } },
-     { link = { href = "/about", text = "About", target = "_self", icon = "0" } },
+    # { link = { href = "/about", text = "About", target = "_self", icon = "0" } },
     # { apple = { href = "/tip", text = "Pay", title = "Tip @ijustyn" } },
      
     #  { apple = { href = "/inquiries", text = "Inquiries", title = "Inquiries", icon = "link", target = "_self" } },
