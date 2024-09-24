@@ -10,7 +10,7 @@ title: 'jjay•org'
 <br><br>
 
 <p>
-<h2><a href="/Websites">Websites</a></h2>
+<h2><a href="/websites">Websites</a></h2>
 </p>
 
 <br>
