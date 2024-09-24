@@ -3,10 +3,10 @@ title: 'Podcasts'
 ---
 <center>
 <br>
-<p>We've produced multiple podcasts, including:</p>
+<p>Produced of multiple podcasts, including:</p>
 <br><br>
 <p>
-<h1><a href="https://passionatingfm.tumblr.com">Passionating</a></h1>
+<h1><a href="https://passionatingfm.tumblr.com">Passionating &#8599;</a></h1>
 <h4>On Hiatus</h4>
 Chaotic conversations between Jamie and Justyn about finding and <em>expressing</em> your passions.
 </p>
