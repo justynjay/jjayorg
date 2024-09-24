@@ -125,12 +125,12 @@ p {
 
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
-    background-color: #C80000;
+    background-color: #5028F0;
   }
 }
 
 .prose .chroma, body  {
- background-color: #C80000;
+ background-color: #F02850;
 }
 
 p, .prose, h2, h3, h4 {
