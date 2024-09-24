@@ -2,7 +2,8 @@
 title: 'Websites'
 ---
 ##### jjay•org creates websites, such as:
----
+##### 
+
 ### [https://ijustyn.com &#8599;](https://ijustyn.com)
 Static homepage built using mostly open source tools:
 - [Homebrew](https://brew.sh/)
@@ -22,3 +23,5 @@ Static homepage built using mostly open source tools:
 - [Lynx](https://jpanther.github.io/lynx/)
 - [Github](https://github.com/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
+---
+##### 
