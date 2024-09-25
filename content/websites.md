@@ -9,8 +9,7 @@ title: 'Websites'
 Static homepage built using mostly open source tools:
 - [Homebrew](https://brew.sh/)
 - [Go](https://go.dev/)
-- [Hugo](https://gohugo.io/)
-- [Lynx](https://jpanther.github.io/lynx/)
+- [Hugo](https://gohugo.io/) with theme: [Lynx](https://jpanther.github.io/lynx/)
 - [Github](https://github.com/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 
@@ -20,9 +19,9 @@ Static homepage built using mostly open source tools:
 Static homepage built using mostly open source tools:
 - [Homebrew](https://brew.sh/)
 - [Go](https://go.dev/)
-- [Hugo](https://gohugo.io/)
-- [Lynx](https://jpanther.github.io/lynx/)
+- [Hugo](https://gohugo.io/) with theme: [Lynx](https://jpanther.github.io/lynx/)
 - [Github](https://github.com/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
+
 ---
 ##### 

@@ -117,12 +117,12 @@ p {
 
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
-    background-color: #5028F0;
+    background-color: #000000;
   }
 }
 
 .prose .chroma, body  {
- background-color: OrangeRed;
+ background-color: #FF2628;
 }
 
 p, h1, *, a, .title {
