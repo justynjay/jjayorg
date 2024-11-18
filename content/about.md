@@ -3,9 +3,6 @@ title: 'jjay•org'
 ---
 <center>
 
-<br>
-
-<p>jjay•org can produce your next small creative project, including: podcasts, photos, videos, and more!</p>
 
 <br><br>
 
@@ -45,14 +42,14 @@ A collection of musings on the current state of Apple and related technologies.
 <br><br><br>
 
 <p>
-<h2>Inquiries</h2>
+<h2></h2>
 </p>
 
 <br>
 
 <p>
-<h3>Contact</h3>
-Please include any and all relevant details to the project, thanks!
+<h3></h3>
+
 </p>
 <br><br><br>
 </center>
