@@ -39,7 +39,9 @@ h1, h2, h3, h3.a, h4 {
   font-family: SFMono-Regular, ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   color: rgb(255, 255, 255);
 }
-
+h2 {
+  font-weight: bold;
+  }
 h1, h3 {
   font-size: 150%;
 }
