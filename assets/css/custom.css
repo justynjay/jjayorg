@@ -97,6 +97,7 @@ p, h1, *, a, .title {
 
 p, h2, h3, h4, h5, .prose {
   color: rgba(255, 255, 255, .75)
+  font-size: 150%;
 }
 a, .prose:a {
   text-decoration: underline;
