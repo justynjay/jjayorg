@@ -42,7 +42,6 @@ h1, h2, h3, h3.a, h4 {
 }
 h2 {
   font-weight: light;
-  text-transform: uppercase;
   }
 h1, h3 {
   font-size: 150%;
@@ -98,7 +97,6 @@ p, h1, *, a, .title {
 
 p, h2, h3, h4, h5, .prose {
   color: rgba(255, 255, 255, .75)
-  font-size: 150%;
 }
 a, .prose:a {
   text-decoration: underline;
