@@ -26,7 +26,7 @@ Homepage for Justyn McCabe. Built using <a href="https://gohugo.io/">Hugo</a>, <
 <br>
 
 <p>
-<h3><a href="https://passionatingfm.tumblr.com">Passionating &#8599;</a></h3>
+<h3><a href="https://passionatingfm.tumblr.com/tagged/episodes">Passionating &#8599;</a></h3>
 <h4>On Hiatus</h4>
 Chaotic conversations between Jamie and Justyn about finding and <em>expressing</em> your passions.
 </p>
