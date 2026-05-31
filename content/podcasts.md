@@ -6,7 +6,7 @@ title: 'Podcasts'
 <p>jjay•org produces podcasts, such as:</p>
 <br><br>
 <p>
-<h1><a href="https://passionatingfm.tumblr.com">Passionating &#8599;</a></h1>
+<h1><a href="https://passionating.com">Passionating &#8599;</a></h1>
 <h4>On Hiatus</h4>
 Chaotic conversations between Jamie and Justyn about finding and <em>expressing</em> your passions.
 </p>
